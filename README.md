@@ -24,7 +24,7 @@
 ## 🚀 Recursos
 
 - ✅ Interface gráfica moderna e intuitiva.
-- 🔁 Restauração segura com backup da pasta original (`data_old`).
+- 🔁 Restauração segura com backup da pasta original.
 - 📜 Log em tempo real com histórico completo de operações.
 - ⚙️ Configuração simples do caminho do XAMPP.
 - 🧪 Validador de integridade dos arquivos de banco.
