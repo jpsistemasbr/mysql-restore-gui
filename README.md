@@ -23,3 +23,6 @@ Uma ferramenta simples e intuitiva para restaurar bases de dados MySQL utilizand
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+## Download
+📥BAIXAR: https://github.com/jpsistemasbr/mysql-restore-gui/releases/download/versao-1/MySQL.Restaurador.Tool.Setup.1.0.0.zip
